@@ -1,7 +1,4 @@
-# Message Maps
-## Discover your strategy
-## Perfect your message
-## Make it easy asf to sell
+# Message Maps: Discover your strategy - Perfect your message - Make it easy asf to sell
 
 Message Maps solves this problem for B2B technology firms: not having as much revenue as you could.
 
