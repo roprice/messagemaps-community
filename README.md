@@ -65,9 +65,10 @@ Ausungate is the first release of message maps and is available for use using an
 
 It doesn't, however, allow for the generation of (a) Brand Strategy or (b) Messaging Recommendations, the two other core features of the product which will be release on June 28th. 
 
-Users may have to click Reload or Refresh in their browser after being logged in for the first time.
+Users may have to click Reload or Refresh in their browser after being logged in for the first time. 
 
-User data is securely stored on a secure backend service called Supabase. Data can be deleted at any time. Data is filtered through OpenAI's API, via the Message Maps corporate account; data is held for 1 month before being deleted.
+User data is securely stored on a secure backend service called Supabase. User accounts and interview data can be deleted at any time by request. Data is filtered through OpenAI's API, via the Message Maps corporate account; data is held for 1 month before being deleted.
+
 ---
 
 
