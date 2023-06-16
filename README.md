@@ -18,8 +18,10 @@ If *you*'d like to try it self-service for free in exchange for feedback, please
 ## Get Help, Support, and Advice
 
 - Using Maps and having an issue? Log it here! https://github.com/roprice/messagemaps-community/issues/new
+
 - You can also DM me (Rowan, owner) on Slack here: https://join.slack.com/t/messagemaps/shared_invite/zt-1xk6jv680-jq7N5a5msC_EmilY3gFWiQ
 
+...
 
 ### About: Maps helps tech firms find their message and tell their story
 
@@ -30,6 +32,9 @@ The product has three core features:
 
 Each uses AI in various ways - analysis, categorization, personalization, and creation.
 
+...
+
+## Roadmap
 
 ### 2023 Release trajectory
 - Jun 14: v0.1.0-pre-alpha-Ausangate. Pre-alpha release. Code name: "Ausangate"
@@ -49,6 +54,7 @@ Each uses AI in various ways - analysis, categorization, personalization, and cr
 
 Multi-modal feature releases
 
+...
 
 ## Release information below
 
@@ -74,5 +80,6 @@ Users may have to click Reload or Refresh in their browser after being logged in
 User data is securely stored on a secure backend service called Supabase. User accounts and interview data can be deleted at any time by request. Data is filtered through OpenAI's API, via the Message Maps corporate account; data is held for 1 month before being deleted.
 
 ---
+
 
 
