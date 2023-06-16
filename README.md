@@ -1,3 +1,6 @@
+Alert - new feature release! Notes are here [Jump to How to Contribute](###v0.1.0-pre-alpha-Ausangate)
+
+
 # Message Maps 
 ## Discover your strategy - Perfect your message - Make it easy asf to sell
 
