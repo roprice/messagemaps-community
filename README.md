@@ -1,4 +1,4 @@
-Alert - new product release [Read the release notes](###v0.1.0-pre-alpha-Ausangate)
+Alert - new product release [Read the release notes](https://github.com/roprice/messagemaps-community/releases/tag/v0.1.0-pre-alpha-Ausangate)
 
 
 # Message Maps 
@@ -61,28 +61,9 @@ Multi-modal feature releases
 
 ## Release information below
 
----
-### v0.1.0-pre-alpha-Ausangate
+-  v0.1.0-pre-alpha-Ausangate https://github.com/roprice/messagemaps-community/releases/tag/v0.1.0-pre-alpha-Ausangate
 
-Ausungate is the first release of message maps and is available for use using an invite code. Ausungate provides only partial access to the tool. It lets users:
 
-- Create an account
-- Participate in an in-depth discovery interview, with questions designed by a human expert
-- Personalize the questions using AI
-- Experience AI-generated drilldown questions that follow responses to such questions
-- Get an interview report at any time
-- Review the interview report and interview transcript within the tool
-- Print a PDF-quality version of the interview report, including transcript
-- Download and export the interview report, including transcript
-- Delete all interview and account data at any time.
-
-It doesn't, however, allow for the generation of (a) Brand Strategy or (b) Messaging Recommendations, the two other core features of the product which will be release on June 28th. 
-
-Users may have to click Reload or Refresh in their browser after being logged in for the first time. 
-
-User data is securely stored on a secure backend service called Supabase. User accounts and interview data can be deleted at any time by request. Data is filtered through OpenAI's API, via the Message Maps corporate account; data is held for 1 month before being deleted.
-
----
 
 
 
