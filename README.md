@@ -1,4 +1,4 @@
-Alert - new feature release! Notes are here [Jump to How to Contribute](###v0.1.0-pre-alpha-Ausangate)
+[Alert - new product release![Skip to release notes](###v0.1.0-pre-alpha-Ausangate)]
 
 
 # Message Maps 
