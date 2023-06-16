@@ -3,7 +3,9 @@
 ---
 Message Maps solves this problem for B2B technology firms: not having as much revenue as you could.
 
-It's a simple a tool packaged with a strategy and messaging consulting service. It can also used separately from consulting services in a self-serve capacity. If you'd like to try the self-service for free in exchange for feedback, please get in touch before the Oct. 5th release!
+It's a simple a tool packaged with a strategy and messaging consulting service. 
+
+However, it can also used _separately_ from consulting services in a self-serve capacity. If you'd like to try the self-service for free in exchange for feedback, please get in touch before the Oct. 5th release!
 
 ## Get Help, Support, and Advice
 
