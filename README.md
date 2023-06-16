@@ -1,7 +1,6 @@
 # Message Maps 
-
 ## Discover your strategy - Perfect your message - Make it easy asf to sell
-
+---
 Message Maps solves this problem for B2B technology firms: not having as much revenue as you could.
 
 It's a simple a tool packaged with a strategy and messaging consulting service. It can also used separately from consulting services in a self-serve capacity. If you'd like to try the self-service for free in exchange for feedback, please get in touch before the Oct. 5th release!
