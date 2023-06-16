@@ -1,4 +1,4 @@
-[Alert - new product release![Skip to release notes](###v0.1.0-pre-alpha-Ausangate)]
+{ Alert - new product release![Skip to release notes](###v0.1.0-pre-alpha-Ausangate) }
 
 
 # Message Maps 
