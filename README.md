@@ -47,6 +47,8 @@ Multi-modal feature releases
 
 
 ## Release information below
+
+---
 ### v0.1.0-pre-alpha-Ausangate
 
 Ausungate is the first release of message maps and is available for use using an invite code. Ausungate provides only partial access to the tool. It lets users:
@@ -66,3 +68,6 @@ It doesn't, however, allow for the generation of (a) Brand Strategy or (b) Messa
 Users may have to click Reload or Refresh in their browser after being logged in for the first time.
 
 User data is securely stored on a secure backend service called Supabase. Data can be deleted at any time. Data is filtered through OpenAI's API, via the Message Maps corporate account; data is held for 1 month before being deleted.
+---
+
+
