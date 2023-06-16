@@ -11,7 +11,6 @@ However, it can also used _separately_ from consulting services in a self-serve 
 
 - Using Maps and having an issue? Log it here! https://github.com/roprice/messagemaps-community/issues/new
 - You can also DM me (Rowan, owner) on Slack here: https://join.slack.com/t/messagemaps/shared_invite/zt-1xk6jv680-jq7N5a5msC_EmilY3gFWiQ
-- Email me here rowan@messagemaps.io
 
 ### About: Maps helps tech firms find their message and tell their story
 
