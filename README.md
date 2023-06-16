@@ -1,16 +1,21 @@
 # Message Maps 
 ## Discover your strategy - Perfect your message - Make it easy asf to sell
----
+
+...
+
 Message Maps solves this problem for B2B technology firms: not having as much revenue as you could.
 
 It's a simple a tool packaged with a strategy and messaging consulting service. 
 
 However, it can also used _separately_ from consulting services in a self-serve capacity. If you'd like to try the self-service for free in exchange for feedback, please get in touch before the Oct. 5th release!
 
+...
+
 ## Get Help, Support, and Advice
 
 - Using Maps and having an issue? Log it here! https://github.com/roprice/messagemaps-community/issues/new
 - You can also DM me (Rowan, owner) on Slack here: https://join.slack.com/t/messagemaps/shared_invite/zt-1xk6jv680-jq7N5a5msC_EmilY3gFWiQ
+
 
 ### About: Maps helps tech firms find their message and tell their story
 
@@ -20,6 +25,7 @@ The product has three core features:
 - Sales messaging tool
 
 Each uses AI in various ways - analysis, categorization, personalization, and creation.
+
 
 ### 2023 Release trajectory
 - Jun 14: v0.1.0-pre-alpha-Ausangate. Pre-alpha release. Code name: "Ausangate"
@@ -34,9 +40,11 @@ Each uses AI in various ways - analysis, categorization, personalization, and cr
 
 - Oct 19 to 2024: bugfix and UX releases through end of year.
 
+
 ### 2024 Release trajectory
 
 Multi-modal feature releases
+
 
 ## Release information below
 ### v0.1.0-pre-alpha-Ausangate
