@@ -3,7 +3,7 @@
 
 ...
 
-Message Maps solves this problem for B2B technology firms: not having as much revenue as you could.
+Message Maps solves this problem for B2B technology firms: *not having as much revenue as you could*.
 
 It's a simple tool optionally packaged with a strategy and messaging consulting service from Message Maps. 
 
