@@ -2,7 +2,7 @@ Alert - new product release [Read the release notes](https://github.com/roprice/
 
 
 # Message Maps 
-## Discover your strategy - Perfect your message - Make it easy asf to sell
+## Discover your strategy - Perfect your message - Make selling simple
 
 ...
 
