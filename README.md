@@ -62,7 +62,7 @@ Multi-modal feature releases
 ## Release information below
 
 -  v0.1.0-pre-alpha-Ausangate https://github.com/roprice/messagemaps-community/releases/tag/v0.1.0-pre-alpha-Ausangate
--  v0.2.0-alpha-Ausungate 
+-  v0.2.0-alpha-Ausungate https://github.com/roprice/messagemaps-community/releases/tag/v0.2.0-alpha-ausangate
 
 
 
