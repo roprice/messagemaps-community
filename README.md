@@ -42,12 +42,12 @@ Each uses AI in various ways - analysis, categorization, personalization, and cr
 ### 2023 Release trajectory
 - Jun 14: v0.1.0-pre-alpha-Ausangate. Pre-alpha release. Code name: "Ausangate"
 - Jun 28: v0.2.0-alpha. Alpha release. 
-- Jul 13: v0.2.x-alpha. bugfix and UX release.
-- Jul 27: v0.3.0-beta. Beta release. 
-- Aug 10: v0.3.x-beta. bugfix and UX release.
-- Aug 24: v0.3.x-beta. bugfix and UX release.
+- Jul 13: v0.2.5-alpha. Bugfix and UX release.
+- Jul 27: v0.3.0-prebeta. Pre-beta release. 
+- Aug 10: v0.3.1-beta. Beta release
+- Aug 24: v0.3.5-beta. Bugfix and UX release.
 - Sep 07: v0.4.0. RC release
-- Sep 21: v0.4.x. bugfix and UX release..
+- Sep 21: v0.4.5. Bugfix and UX release..
 - Oct 05: v1.0.0. Gamma product release. Code name: "Chachani"
 
 - Oct 19 to 2024: bugfix and UX releases through end of year.
